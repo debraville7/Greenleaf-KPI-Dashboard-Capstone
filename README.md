@@ -18,4 +18,4 @@ Insights and recommendations are provided in the following key areas:
 
 
 An interactive Excel dashboard can be found [here](https://github.com/debraville7/Greenleaf-KPI-Dashboard-Capstone/blob/376f065f828be534b521d69bde610f768e20393f/Greenleaf_KPI_Capstone_Remake.xlsx).
-The Python notebook contain the code utilized to clean, organize, and prepare data for the dashboard can be found here
+The Python notebook contain the code utilized to clean, organize, and prepare data for the dashboard can be found [here](https://github.com/debraville7/Greenleaf-KPI-Dashboard-Capstone/blob/565a5973e8461ee9a85b58453d18d562be44acb4/Greenleaf%20Data%20Cleaning%20Project-Copy-checkpoint.ipynb).
