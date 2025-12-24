@@ -2,6 +2,8 @@
 
 ![image](https://github.com/debraville7/Greenleaf-KPI-Dashboard-Capstone/blob/07e19ffdf321ef31edaa83fd80c3c3803c564535/Greenleaf_Dashboard_Overview.png)
 
+---
+
 ## Project Background
 
 Greenleaf Stores is an early-stage online retailer specializing in eco-friendly home products.
@@ -19,3 +21,47 @@ Insights and recommendations are provided in the following key areas:
 
 An interactive Excel dashboard can be found [here](https://github.com/debraville7/Greenleaf-KPI-Dashboard-Capstone/blob/376f065f828be534b521d69bde610f768e20393f/Greenleaf_KPI_Capstone_Remake.xlsx).
 The Python notebook contain the code utilized to clean, organize, and prepare data for the dashboard can be found [here](https://github.com/debraville7/Greenleaf-KPI-Dashboard-Capstone/blob/565a5973e8461ee9a85b58453d18d562be44acb4/Greenleaf%20Data%20Cleaning%20Project-Copy-checkpoint.ipynb).
+
+
+---
+
+## Data Structure & Initial Checks
+
+Sales transaction records
+
+Customer dataset
+
+Product category master list
+
+Shipping Breakdown dataset
+
+State Comparisons
+
+Key Fields:	Notes:
+Order ID, Order Date, Product Name,	1,000 records; Jan-Dec
+Product Category, Quantity Sold, Unit Price,	2024; mixed casing; ~5%
+Unit Cost	missing values in Unit Price (resolve. Know how:)Below
+Customer ID, Name	~199 unique customers
+Shipment Status	Pending, Shipped,
+	Delivered, Returned
+State	10 US States
+<img width="1423" height="310" alt="image" src="https://github.com/user-attachments/assets/9c542590-31e5-4bad-aa4e-2c5d3d9f069b" />
+
+
+
+Key Fields:
+Notes:
+Order ID, Order Date, Product Name,
+Product Category, Quantity Sold, Unit Price,
+Unit Cost
+1,000 records; Jan-Dec
+2024; mixed casing; ~5%
+missing values in Unit Price (resolve. Know how:)Below
+Customer ID, Name
+~199 unique customers
+Shipment Status
+Pending, Shipped,
+Delivered, Returned
+State
+10 US States
+
