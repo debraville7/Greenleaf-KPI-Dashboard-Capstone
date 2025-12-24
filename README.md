@@ -69,7 +69,7 @@ Product-level analysis also shows that Cleaning (8.2%) and Kitchenware (8.1%) ha
 ### Customer Behavior:
 * Customer-level analysis indicates that a limited number of customers account for a significant share of total revenue and profit, while the majority contribute smaller, lower-frequency orders; assuming revenue concentration follows a typical Pareto pattern (where ~20% of customers generate ~80% of value), GreenLeaf’s revenue stability is highly dependent on retaining a relatively small group of high-value customers.
 
-![image](https://github.com/debraville7/Greenleaf-KPI-Dashboard-Capstone/blob/07e19ffdf321ef31edaa83fd80c3c3803c564535/Greenleaf_Dashboard_Overview.png)
+![image](https://github.com/debraville7/Greenleaf-KPI-Dashboard-Capstone/blob/d5edea16e26084315f50747be2e6fa77e9bb4168/Top%2010%20Customers.png)
 
 ---
 
