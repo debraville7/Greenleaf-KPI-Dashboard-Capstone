@@ -39,4 +39,11 @@ State data
 
 <img width="1423" height="310" alt="image" src="https://github.com/user-attachments/assets/9c542590-31e5-4bad-aa4e-2c5d3d9f069b" />
 
+---
+
+### Revenue Trends:
+* The monthly revenue trend shows pronounced fluctuations across the year, with revenue peaking in January ($12.5K), April–May (~$11.2K–$11.0K), and October ($11.4K), while experiencing sharp declines in June ($7.1K) and September ($7.1K)—representing drops of roughly 35–40% from peak months; assuming these swings reflect seasonality, promotion timing, or operational capacity rather than random variation, Greenleaf’s sales performance is uneven and overly dependent on a few high-performing months to offset weaker periods.
+* The uneven revenue growth is driven largely by fluctuations in Lighting, which contributes the largest revenue share but also experiences extreme MoM swings (e.g., +21.4% in April, -46.8% in June, -63.5% in September). At the same time, lower-value categories such as Cleaning and Bags show persistent negative MoM trends (Cleaning declining by 50–70% MoM in multiple months), while Gardening and Kitchenware intermittently offset declines through isolated growth spikes (e.g., Gardening +43.2% in June, Kitchenware +50.0% in October), indicating that overall revenue performance is highly dependent on a small number of volatile product categories rather than balanced portfolio growth.
+
+<br>
 
