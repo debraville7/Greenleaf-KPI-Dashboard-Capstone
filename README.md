@@ -27,41 +27,16 @@ The Python notebook contain the code utilized to clean, organize, and prepare da
 
 ## Data Structure & Initial Checks
 
-Sales transaction records
+Sales orders
 
-Customer dataset
+Customer data
 
 Product category master list
 
 Shipping Breakdown dataset
 
-State Comparisons
+State Comparison
 
-Key Fields:	Notes:
-Order ID, Order Date, Product Name,	1,000 records; Jan-Dec
-Product Category, Quantity Sold, Unit Price,	2024; mixed casing; ~5%
-Unit Cost	missing values in Unit Price (resolve. Know how:)Below
-Customer ID, Name	~199 unique customers
-Shipment Status	Pending, Shipped,
-	Delivered, Returned
-State	10 US States
 <img width="1423" height="310" alt="image" src="https://github.com/user-attachments/assets/9c542590-31e5-4bad-aa4e-2c5d3d9f069b" />
 
-
-
-Key Fields:
-Notes:
-Order ID, Order Date, Product Name,
-Product Category, Quantity Sold, Unit Price,
-Unit Cost
-1,000 records; Jan-Dec
-2024; mixed casing; ~5%
-missing values in Unit Price (resolve. Know how:)Below
-Customer ID, Name
-~199 unique customers
-Shipment Status
-Pending, Shipped,
-Delivered, Returned
-State
-10 US States
 
