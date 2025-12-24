@@ -27,15 +27,15 @@ The Python notebook contain the code utilized to clean, organize, and prepare da
 
 ## Data Structure & Initial Checks
 
-Sales orders
+* Sales orders
 
-Customer data
+* Customer data
 
-Product category master list
+* Product category master list
 
-Shipping Breakdown data
+* Shipping Breakdown data
 
-State data
+* State data
 
 <img width="1423" height="310" alt="image" src="https://github.com/user-attachments/assets/9c542590-31e5-4bad-aa4e-2c5d3d9f069b" />
 
