@@ -57,7 +57,7 @@ The Python notebook contain the code utilized to clean, organize, and prepare da
 ### State Comparisons:
 * The order distribution map shows that Ohio (123 orders), North Carolina (112 orders), Pennsylvania (103 orders), and Illinois (102 orders) account for the highest order volumes, while large markets such as California (87) and Florida (87) underperform relative to their population size; assuming order count reflects underlying customer demand and repeat purchase behavior, this indicates that Greenleaf’s sales traction is strongest in the Midwest and select East Coast states, with uneven national penetration.
 
-![image](https://github.com/debraville7/Greenleaf-KPI-Dashboard-Capstone/blob/6420689ba35e1e9e6e7091433da7358e72294590/Order%20Distribution%20across%20State.png)
+![image](https://github.com/debraville7/Greenleaf-KPI-Dashboard-Capstone/blob/ce27fd8aff346449b7fdbb0f67652c0ed36bab93/Order%20Distribution%20Across%20State.png)
 
 ### Shipping Performance:
 * State-level delivery data shows clear variation in outcomes, with Pennsylvania (4.9%) and North Carolina (4.8%) contributing the highest shares of non-delivered orders, and North Carolina (2.2%), Pennsylvania (2.1%), and New York (2.0%) recording the highest Pending + Returned proportions, while Ohio posts the strongest performance with the highest Delivered share (8.0%) and the lowest Pending + Returned share (0.9%); assuming that higher levels of unresolved shipments indicate delivery friction rather than weak demand, this pattern signals elevated churn risk concentrated in specific high-impact states.
