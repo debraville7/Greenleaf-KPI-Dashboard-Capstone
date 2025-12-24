@@ -47,3 +47,5 @@ State data
 
 <br>
 
+### Product Performance:
+* The data shows that lighting products—led by the Solar LED Lantern—generate over 40% of total profit while representing only about 23% of total orders; assuming this concentration reflects sustained pricing power rather than temporary demand spikes, Greenleaf’s overall profitability is highly dependent on a narrow set of high-margin products.
