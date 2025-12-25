@@ -12,7 +12,7 @@ The company has significant data on its sales, customer behavior, marketing effo
 
 ##### Insights and recommendations are provided in the following key areas:
 
-* ##### Revenue Trends Analysis: Evaluation of historical revenue patterns focusing on Revenue, Order Volume, and Average Order Value(AOV).
+* Revenue Trends Analysis: Evaluation of historical revenue patterns focusing on Revenue, Order Volume, and Average Order Value(AOV).
 * Product Level Performance: An analysis of Greenleaf’s product lines, understanding their impact on revenue and returns.
 * Customer Purchase Behavior: An analysis of top customers that contribute significant share of revenue
 * State Performance: An assessment of revenue and orders by state.
@@ -44,13 +44,13 @@ The Python notebook contain the code utilized to clean, organize, and prepare da
 ## Insights
 
 ### Revenue Trends:
-* The monthly revenue trend shows pronounced fluctuations across the year, with revenue peaking in January ($12.5K), April–May (~$11.2K–$11.0K), and October ($11.4K), while experiencing sharp declines in June ($7.1K) and September ($7.1K)—representing drops of roughly 35–40% from peak months; assuming these swings reflect seasonality, promotion timing, or operational capacity rather than random variation, Greenleaf’s sales performance is uneven and overly dependent on a few high-performing months to offset weaker periods.
+* The monthly revenue trend shows pronounced fluctuations across the year, with revenue peaking in January ($12.5K), April–May (~$11.2K–$11.0K), and October ($11.4K), while experiencing sharp declines in June ($7.1K) and September ($7.1K)—representing drops of about 35–40% from peak months, reflecting seasonality, promotion timing, or operational capacity rather than random variation, Greenleaf’s sales performance is uneven and overly dependent on a few high-performing months to offset weaker periods.
 * The uneven revenue growth is driven largely by fluctuations in Lighting, which contributes the largest revenue share but also experiences extreme MoM swings (e.g., +21.4% in April, -46.8% in June, -63.5% in September). At the same time, lower-value categories such as Cleaning and Bags show persistent negative MoM trends (Cleaning declining by 50–70% MoM in multiple months), while Gardening and Kitchenware intermittently offset declines through isolated growth spikes (e.g., Gardening +43.2% in June, Kitchenware +50.0% in October), indicating that overall revenue performance is highly dependent on a small number of volatile product categories rather than balanced portfolio growth.
 
 ![image](https://github.com/debraville7/Greenleaf-KPI-Dashboard-Capstone/blob/496ce24a058c8aefed870ab19a95a7db7998b521/Monthly%20Revenue%20Trend.png)
 
 ### Product Performance:
-* The data shows that lighting products—led by the Solar LED Lantern—generate over 40% of total profit while representing only about 23% of total orders; assuming this concentration reflects sustained pricing power rather than temporary demand spikes, Greenleaf’s overall profitability is highly dependent on a narrow set of high-margin products.
+* The data shows that lighting products—led by the Solar LED Lantern—generate over 40% of total profit while representing only about 23% of total orders, this concentration reflects sustained pricing power rather than temporary demand spikes, Greenleaf’s overall profitability is highly dependent on a narrow set of high-margin products.
 
 ![image](https://github.com/debraville7/Greenleaf-KPI-Dashboard-Capstone/blob/496ce24a058c8aefed870ab19a95a7db7998b521/Profit%20by%20Product.png)
 
