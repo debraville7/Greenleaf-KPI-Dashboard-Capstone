@@ -10,9 +10,9 @@ Greenleaf Stores is an early-stage online retailer specializing in eco-friendly 
  
 The company has significant data on its sales, customer behavior, marketing efforts, and shipping performance that has been previously underutilized. This project thoroughly analyzes and synthesizes this data in other to uncover critical insights that will improve Greenleaf business outcomes.
 
-Insights and recommendations are provided in the following key areas:
+##### Insights and recommendations are provided in the following key areas:
 
-* Revenue Trends Analysis: Evaluation of historical revenue patterns focusing on Revenue, Order Volume, and Average Order Value(AOV).
+* ##### Revenue Trends Analysis: Evaluation of historical revenue patterns focusing on Revenue, Order Volume, and Average Order Value(AOV).
 * Product Level Performance: An analysis of Greenleaf’s product lines, understanding their impact on revenue and returns.
 * Customer Purchase Behavior: An analysis of top customers that contribute significant share of revenue
 * State Performance: An assessment of revenue and orders by state.
